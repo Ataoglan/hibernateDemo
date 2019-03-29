@@ -1,4 +1,4 @@
-package com.ataoglan.exception;
+package exception;
 
 
 import org.springframework.http.HttpStatus;
