@@ -1,6 +1,6 @@
-package repository;
+package com.ataoglan.repository;
 
-import entity.Note;
+import com.ataoglan.entity.Note;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

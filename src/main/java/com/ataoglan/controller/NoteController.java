@@ -1,9 +1,9 @@
-package controller;
+package com.ataoglan.controller;
 
 
-import entity.Note;
-import exception.ResourceNotFoundException;
-import repository.NoteRepository;
+import com.ataoglan.entity.Note;
+import com.ataoglan.exception.ResourceNotFoundException;
+import com.ataoglan.repository.NoteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
